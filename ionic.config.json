@@ -1,0 +1,7 @@
+{
+  "name": "Sports Updates",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
